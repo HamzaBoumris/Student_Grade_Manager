@@ -1,9 +1,9 @@
-A simple Python application to manage student records and their grades.
+A simple Python code to manage student records and their grades while applying fundamental concepts like conditions, loops, functions, dictionaries, and file handling..
 
 ## Features
 - Add new students
 - Assign grades to students
-- Display student information and results
+- Display student name and results
 - Store and retrieve data
 
 ## Project Structure
